@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Readable Code]]></title>
-  <link href="http://readable-code.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Clean-code | Readable Code]]></title>
+  <link href="http://readable-code.github.io/blog/categories/clean-code/atom.xml" rel="self"/>
   <link href="http://readable-code.github.io/"/>
   <updated>2015-01-13T23:08:12+01:00</updated>
   <id>http://readable-code.github.io/</id>
